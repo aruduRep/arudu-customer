@@ -1,0 +1,62 @@
+{
+  "articles": [
+    {
+      "active": false,
+      "articleNumber": "1",
+      "articleName": "Pfand 25ct Mwst.19%",
+      "articleType": "Regular",
+      "salesUnit": "PCE",
+      "salesPrice": 0.25,
+      "depositRelations": [
+        {
+          "relation": "100002",
+          "assemblyPerCount": 1
+        }
+      ],
+      "optionalDepositRelations": [],
+      "suppliers": [
+        {
+          "supplierID": "Edeka",
+          "orderNumber": "29375903",
+          "purchasePriceNet": 1.03,
+          "contentAmount": 15
+        },
+        {
+          "supplierID": "Rewe",
+          "orderNumber": "56858568",
+          "purchasePriceNet": 1.09,
+          "contentAmount": 12
+        }
+      ],
+      "image": [],
+      "groupID": ["23", "3453"],
+      "notes": null,
+      "identifier": ["82639520375", "w98sdfbe"],
+      "stock": [
+        {
+          "storeID": "1",
+          "stockCurrent": 8,
+          "stockTarget": 20,
+          "stockMinimum": 5
+        },
+        {
+          "storeID": "45",
+          "stockCurrent": 20,
+          "stockTarget": 30,
+          "stockMinimum": 5
+        }
+      ],
+      "baseAmount": 0.35,
+      "baseUnit": "KG",
+      "customData": null,
+      "taxGroupID": "2",
+      "discountFlag": true,
+      "returnAble": true,
+      "manualPriceOverwriteAllowed": true,
+      "zeroPriceAllowed": true,
+      "manualPriceEntry": true,
+      "taxExemptProhibitedFlag": true,
+      "salesRestrictionAgeValue": 16
+    }
+  ]
+}

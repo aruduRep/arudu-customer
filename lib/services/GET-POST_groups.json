@@ -1,0 +1,9 @@
+{
+  "groups": [
+    {
+      "groupID": "1",
+      "name": "Obst & Gemüse",
+      "image": "https:// or a reference to an image"
+    }
+  ]
+}

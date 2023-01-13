@@ -1,0 +1,18 @@
+{
+  "news": [
+    {
+      "newsID": "1",
+      "storeID": ["1", "2"],
+      "title": "Neues aus dem Ort",
+      "text": "Alles wichtige zum Thema \n Danke.",
+      "image": "https:// or a reference to an image"
+    },
+    {
+      "newsID": "2",
+      "storeID": [],
+      "title": "Neues aus dem Ort",
+      "text": "Alles wichtige zum Thema \n Danke.",
+      "image": "https:// or a reference to an image"
+    }
+  ]
+}

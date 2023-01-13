@@ -1,0 +1,24 @@
+{
+  "logs": [
+    {
+      "logsID": "123910102",
+      "storeID": "1",
+      "time": "Zeitformat",
+      "type": "Personalausweis",
+      "id": "LG2189649",
+      "name": "Leonard König",
+      "adress": "Lösten 27, 95239 Zell",
+      "birthdate": "08-01-2001"
+    },
+    {
+      "logsID": "4573436346",
+      "storeID": "1",
+      "time": "Zeitformat",
+      "type": "EC-Karte",
+      "id": "LG2189649",
+      "name": "",
+      "adress": "",
+      "birthdate": ""
+    }
+  ]
+}

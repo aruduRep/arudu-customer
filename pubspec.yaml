@@ -1,0 +1,31 @@
+name: arudu_customer
+description: A new Flutter project.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  device_preview: ^1.1.0
+  lottie: ^2.1.0
+  carousel_slider: ^4.0.0
+  carousel_indicator: ^1.0.6
+  dots_indicator: ^2.1.0
+  material_floating_search_bar: ^0.3.7
+  path_provider: ^2.0.11
+  sqflite: ^2.2.3
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/
+  uses-material-design: true

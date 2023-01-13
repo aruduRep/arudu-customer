@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "userID": "1",
+      "name": "Leonard",
+      "email": "leonard.koenig@arudu.de",
+      "password": "myPassword123",
+      "role": "retailer",
+      "loginAttempts": 1,
+      "jwt": "857f0e1d-8d1d-4e00-ab9c-3d8054020fb4",
+      "supplierID": null,
+      "active": true
+    },
+    {
+      "userID": "2",
+      "name": "Leonard",
+      "email": "leonard.koenig@arudu.de",
+      "password": "myPassword123",
+      "role": "backend",
+      "loginAttempts": 2,
+      "jwt": "857f0e1d-8d1d-4e00-ab9c-3d8054020fb4",
+      "supplierID": null,
+      "active": true
+    },
+    {
+      "userID": "3",
+      "name": "Leonard",
+      "email": "leonard.koenig@arudu.de",
+      "password": "myPassword123",
+      "role": "supplier",
+      "loginAttempts": 1,
+      "jwt": "857f0e1d-8d1d-4e00-ab9c-3d8054020fb4",
+      "supplierID": "1",
+      "active": true
+    },
+    {
+      "userID": "4",
+      "name": "Leonard",
+      "email": "leonard.koenig@arudu.de",
+      "password": "myPassword123",
+      "role": "pos",
+      "loginAttempts": 1,
+      "jwt": "857f0e1d-8d1d-4e00-ab9c-3d8054020fb4",
+      "supplierID": null,
+      "active": true
+    },
+    {
+      "userID": "5",
+      "name": "Leonard",
+      "email": "leonard.koenig@arudu.de",
+      "password": "myPassword123",
+      "role": "sign-in",
+      "loginAttempts": 1,
+      "jwt": "857f0e1d-8d1d-4e00-ab9c-3d8054020fb4",
+      "supplierID": null,
+      "active": true
+    }
+  ]
+}

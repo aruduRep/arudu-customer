@@ -1,0 +1,9 @@
+{
+  "userID": "1",
+  "name": "Leonard",
+  "email": "leonard.koenig@arudu.de",
+  "password": "myPassword123",
+  "role": "retailer",
+  "supplierID": null,
+  "active": true
+}

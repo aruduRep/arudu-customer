@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "externalID": "8965843543",
+      "articleID": "1",
+      "storeID": "1",
+      "type": "sale",
+      "time": "Zeitformat",
+      "priceNet": 0.25,
+      "priceGross": 0.29,
+      "amount": 2
+    },
+    {
+      "externalID": "34863434",
+      "articleID": "1",
+      "storeID": "1",
+      "type": "inventory",
+      "time": "Zeitformat",
+      "priceNet": 0.25,
+      "priceGross": 0.29,
+      "amount": -2
+    },
+    {
+      "externalID": "34863434",
+      "articleID": "1",
+      "storeID": "1",
+      "type": "delivery",
+      "time": "Zeitformat",
+      "priceNet": 0.25,
+      "priceGross": 0.29,
+      "amount": 2.5
+    }
+  ]
+}

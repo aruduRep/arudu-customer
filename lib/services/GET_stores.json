@@ -1,0 +1,17 @@
+[
+  {
+    "postalCode": "12345",
+    "id_store": "id",
+    "name": "ARUDU Flagship Store",
+    "url": "https://",
+    "address": "Beispielstraße 123",
+    "city": "Musterstadt",
+    "country": "DE",
+    "phone": "01234 123123",
+    "email": "info@mustermann.de",
+    "vatID": "DE235235235",
+    "long": "",
+    "lat": "",
+    "locale": "de_DE"
+  }
+]

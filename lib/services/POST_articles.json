@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "active": true,
+      "articleNumber": "1",
+      "salesPrice": 0.25,
+      "suppliers": [
+        {
+          "supplierID": "Rewe",
+          "orderNumber": "56858568",
+          "purchasePriceNet": 1.09,
+          "contentAmount": 12
+        }
+      ],
+      "identifier": ["82639520375"],
+      "baseUnit": "KG",
+      "taxGroupID": "2"
+    },
+    {
+      "articleNumber": "2",
+      "name": "Apple",
+      "suppliers": [
+        {
+          "supplierID": "Edeka",
+          "orderNumber": "235235",
+          "purchasePriceNet": 1.09,
+          "contentAmount": 12
+        }
+      ]
+    }
+  ]
+}
