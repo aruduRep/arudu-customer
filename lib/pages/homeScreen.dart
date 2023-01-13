@@ -1,7 +1,7 @@
 // ignore_for_file: sort_child_properties_last
 
 import "package:flutter/material.dart";
-import "package:arudu_customer/local.dart";
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:arudu_customer/components/card_news.dart';
 import 'package:arudu_customer/components/card_offer.dart';
 import 'package:arudu_customer/components/card_supplier.dart';
@@ -73,7 +73,7 @@ class _HomeState extends State<HomeScreen> with SingleTickerProviderStateMixin {
   ];
   final List<Widget> _suppliers = [
     CardSupplier(
-      name: "Metzgerei Lottes",
+      name: "Metzgerei Lottes ",
       description: "Text ohne Ende...",
       picture: "9",
     ),
@@ -102,12 +102,9 @@ class _HomeState extends State<HomeScreen> with SingleTickerProviderStateMixin {
   @override
   void initState() {
     super.initState();
-    getDatabase();
   }
 
-  void getDatabase() async {
-    final DbHelper dbHelper = DbHelper.instance;
-  }
+  void addArticle() async {}
 
   @override
   Widget build(BuildContext context) {
