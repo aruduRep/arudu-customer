@@ -12,6 +12,7 @@ import 'package:arudu_customer/pages/searchScreen.dart';
 
 void main() {
   runApp(DevicePreview(
+    enabled: false,
     builder: (context) => MyApp(), //for Preview
   ));
 }
@@ -30,7 +31,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Arudu Customer App',
       builder: DevicePreview.appBuilder, //for Preview
-      useInheritedMediaQuery: true, //for Preview not hidden behind camera
+      useInheritedMediaQuery: true, //not hidden behind camera
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         appBarTheme: const AppBarTheme(
